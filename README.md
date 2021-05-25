@@ -1,2 +1,2 @@
 # APCSA-HTML-Stuff
-a repository for apcs making webpages
+a repository for apcsa making webpages
